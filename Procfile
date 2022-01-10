@@ -1,0 +1,1 @@
+web: gunicorn rtech.wsgi --log-file -
